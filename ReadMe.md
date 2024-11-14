@@ -1,5 +1,5 @@
 # 💫 About Me:
-Everything web development.<br>Learning new skills every single day.
+Everything web development.<br>Keep learning every single day.
 
 
 ## 🌐 Socials:
